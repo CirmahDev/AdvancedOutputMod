@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Advanced Output Mod
 
-You can use the [editor on GitHub](https://github.com/CirmahDev/AdvancedOutputMod/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>This mod is made to make Redstone computations easier and more compact. Allowing the player to create complex programs with the power of Redstone!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>You will find the repository for the mod up at the top of this page. This mod is currently and always will be a work in progress. But I will only commit changes when they perform correctly under my testing. Any feedback on the mod will be much appreciated especially if a bug is found and needs to be squashed! The best devs will always listen to their users so I am open to suggestions :)
 
-### Markdown
+### Download Most Recent
+>[![](https://placehold.it/350x90/009955/fff?text=Download_Zip)](shorturl.at/vw239)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Licence
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CirmahDev/AdvancedOutputMod/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>Feel free to use my mod in any modpack but just give me credit!
