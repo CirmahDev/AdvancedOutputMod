@@ -4,6 +4,7 @@ import io.github.cirmahdev.aomc.AdvancedOutputModMain;
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
+import net.minecraftforge.common.ToolType;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -22,6 +23,8 @@ public class ModBlocks {
             .create(Material.IRON)
             .hardnessAndResistance(3.0F, 3.0F)
             .sound(SoundType.METAL)
+            .harvestTool(ToolType.PICKAXE)
+            .harvestLevel(2)
     ));
 
 
