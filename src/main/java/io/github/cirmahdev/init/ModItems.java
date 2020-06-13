@@ -16,6 +16,7 @@ public class ModItems{
     //*****************************//
 
     public static final RegistryObject<Item> CHECKER = ITEMS.register("checker",()-> new Item(new Item.Properties().group(ModItemGroup.MOD_ITEM_GROUP)));
+    public static final RegistryObject<Item> FRACTURED_INGOT = ITEMS.register("fractured_ingot", ()-> new Item(new Item.Properties().group(ModItemGroup.MOD_ITEM_GROUP)));
 
 
     //*****************************//

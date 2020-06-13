@@ -2,5 +2,6 @@
   "itemGroup.aomc": "Advanced Output Mod",
   "item.aomc.checker": "Checker",
   "item.aomc.fractured_ore": "Fractured Ore",
-  "block.aomc.fractured_ore": "Fractured Ore"
+  "block.aomc.fractured_ore": "Fractured Ore",
+  "item.aomc.fractured_ingot": "Fractured Ingot"
 }
